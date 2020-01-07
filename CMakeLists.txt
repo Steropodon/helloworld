@@ -61,4 +61,4 @@ include(CPack)
 
 enable_testing()
 
-add_test(hw_test test_helloworld.cpp)
+add_test(hw_test hw_test)
